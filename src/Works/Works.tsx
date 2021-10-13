@@ -36,7 +36,7 @@ export function Works() {
             title={'Game'}
             description={'Build simple memory game with colored (or any images) cards.'}
             style={todoList}
-            hrefToProject={'https://evan-13-bee.github.io/page/'}
+            hrefToProject={'https://evan-13-bee.github.io/game/'}
           />
          
           {/* {works.map(() => <MyWork
