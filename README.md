@@ -7,3 +7,5 @@ Calculator: https://evan-13-bee.github.io/calculator/
 Todolist: https://evan-13-bee.github.io/todolist/
 
 Dumb game: https://evan-13-bee.github.io/todolist/ 
+
+Adaptive store: https://evan-13-bee.github.io/store/ 
