@@ -10,5 +10,5 @@ Code: https://github.com/Evan-13-bee/calculator
 
 Todolist: https://evan-13-bee.github.io/todolist/
 
-Dumb game: https://evan-13-bee.github.io/todolist/ 
+Dumb game: https://evan-13-bee.github.io/game/ 
 
