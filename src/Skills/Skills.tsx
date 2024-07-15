@@ -58,6 +58,7 @@ export function Skills() {
             description={[
               'flex',
               'SASS',
+              'sprite',
               'grid(low)'
             ]}
           />
@@ -69,6 +70,7 @@ export function Skills() {
               'Vuex',
               'Filters',
               'Mixins',
+              'i18n',
               'Directives'
             ]}
           />
